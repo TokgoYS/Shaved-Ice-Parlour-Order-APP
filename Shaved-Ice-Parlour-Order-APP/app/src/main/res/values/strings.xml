@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stuc108193104</string>
+
+    <string-array name="fruit">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Pudding</item>
+        <item>Strawberry</item>
+        <item>Mango</item>
+    </string-array>
+</resources>
